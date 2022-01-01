@@ -1,0 +1,24 @@
+123456
+Aslam
+03182234
+House # 123, Block G, Faisal Town, Lahore.
+213566
+Usman
+03337777
+House # 453, Block F, Faisal Town, Lahore.
+234567
+Sufyan
+03182212
+House # 453, Block J, Johar Town, Lahore.
+321772
+Haider
+03122241
+House # 123, Iiqbal Town, Lahore
+362012
+Iqbal
+03123331
+House 112, Near Emporium, Lahore
+362012
+Husnain
+03037761
+House # 368, Block H, Johar Town, Lahore
